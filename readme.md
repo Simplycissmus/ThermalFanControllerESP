@@ -11,7 +11,7 @@
 - **Last Updated**: October 29, 2024
 - **Author**: Patric Aeberhard
 - **License**: MIT
-- **Repository**: https://github.com/Simplycissmus/ThermalFanControllerESP_private
+- **Repository**: https://github.com/Simplycissmus/ThermalFanControllerESP
 - **Development Status**: Active
 - **Target Platform**: ESP32 (Seeed Studio XIAO ESP32C6)
 
